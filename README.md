@@ -1,11 +1,11 @@
 # hello 這是我考網管的作業
 ## 使用的packages:
-* pip install flask
-* pip install python-dotenv
-> (或是直接requirements.txt也可以)
+* flask
+* python-dotenv
 
 ## 如何開啟：
-* 到 rcon.ckcsc.net:5003/
+* 到 http://rcon.ckcsc.net
+(我不知道其他人有沒有權限)
 
 ## 網站有的東西：
 * discord 第三方登入登出
